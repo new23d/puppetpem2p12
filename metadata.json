@@ -1,0 +1,26 @@
+{
+  "name": "new23d-puppetpem2p12",
+  "version": "0.0.1",
+  "author": "new23d",
+  "summary": "Extend your Puppet CA (Certificate Authority) for use on your MS Windows infrastructure. Converts PEM files to the P12 format and installs them in the Certificate Manager too.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/new23d/puppetpem2p12.git",
+  "project_page": "https://github.com/new23d/puppetpem2p12",
+  "issues_url": "https://github.com/new23d/puppetpem2p12/issues",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Windows",
+      "operatingsystemrelease": [
+        "Server 2008",
+        "Server 2008 R2",
+        "Server 2012",
+        "Server 2012 R2",
+        "7",
+        "8"
+      ]
+    }
+  ],
+  "dependencies": [],
+  "tags": ["pem", "p12", "puppetca", "ca", "windows", "tls", "ssl"]
+}
+
