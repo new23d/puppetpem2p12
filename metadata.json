@@ -1,6 +1,6 @@
 {
   "name": "new23d-puppetpem2p12",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "new23d",
   "summary": "Extend your Puppet CA for use on your Windows platform. Converts PEM files to the P12 format and installs them in the Certificate Manager.",
   "license": "Apache-2.0",
